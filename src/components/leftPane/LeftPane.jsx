@@ -42,7 +42,7 @@ const LeftPane = () => {
             <div className="photo">
               <img
                 alt="Ebenezer Don"
-                src="https://pbs.twimg.com/profile_images/1376379328070627332/2_7Gqbn0_normal.jpg"
+                src="https://pbs.twimg.com/profile_images/1393551558210633732/KYsC54go_normal.jpg"
               />
             </div>
             <div>
