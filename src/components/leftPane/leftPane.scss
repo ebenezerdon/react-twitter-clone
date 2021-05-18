@@ -66,6 +66,10 @@
     margin-top: 0.5em;
     margin-left: 3.7em;
     cursor: pointer;
+
+    &:hover {
+      background: #0f90e5;
+    }
   }
 
   footer {
