@@ -38,18 +38,18 @@ const LeftPane = () => {
         <button className="tweet">Tweet</button>
 
         <footer>
-          <button className="account">
+          <div role="button" tabIndex="0" className="account">
             <div className="photo">
               <img
                 alt="Ebenezer Don"
-                src="https://pbs.twimg.com/profile_images/1393551558210633732/KYsC54go_normal.jpg"
+                src="https://pbs.twimg.com/profile_images/1396032802785792007/oOw0_zfI_normal.jpg"
               />
             </div>
             <div>
               <div className="name">Ebenezer Don</div>
               <div className="username">@ebenezerDN</div>
             </div>
-          </button>
+          </div>
         </footer>
       </div>
     </div>
